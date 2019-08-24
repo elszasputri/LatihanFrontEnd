@@ -1,2 +1,2 @@
 # LatihanFrontEnd
-Latihan
+Latihan baru
